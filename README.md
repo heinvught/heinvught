@@ -15,7 +15,7 @@
 
 - 💼 I'm currently working as a lead regulatory / monitoring **Senior Full Stack Engineer** (C#, .NET, SQL, Azure, Angular ...) at [Anglo American Marketing Limited](https://www.angloamerican.com/).
 - 🌟 I'm currently available for freelance projects. 
-- 🚀 View out my bio at [bio.hvvdev.uk](https://bio.heinvoo.uk).
+- 🚀 View out my bio at [bio.heinvoo.uk](https://bio.heinvoo.uk).
 
 ### Connect with me:
 
